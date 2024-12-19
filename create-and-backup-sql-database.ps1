@@ -1,4 +1,3 @@
-# Prompt user for input
 $resourceGroupName = Read-Host "Enter the name of the resource group"
 $location = Read-Host "Enter the Azure region (e.g., EastUS)"
 $serverName = Read-Host "Enter a unique SQL server name"
